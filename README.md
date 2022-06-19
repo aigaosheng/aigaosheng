@@ -3,8 +3,8 @@ I'm currently a data scientist in an e-commerce company, working on interesting 
 Before joining the current company, I'm leading a data science team (~5 members) in a media company, working on user profiling, news recommendation, news tag classification, media content view forcasting.
 Jumping into industry happened after 16-year researching & developing in a*star, Singapore as a research scientist. Just want to open eye on industry product development.
 ### Some project stuffs
-Competitive intelligence - understaing assortment & price competitive of products in platform
-digital optimizer - building personized ads recommendation system to improve CTR in media domain
+#### Competitive intelligence - understaing assortment & price competitive of products in platform
+#### digital optimizer - building personized ads recommendation system to improve CTR in media domain
 media content view forcasting - predicting how many users will view media (news, radio, video) contents when published. 
 Speech recognition - acoustic model, language model + search engine + real-time optimization C++
 Audio fingerprint - support mobile phone based audio search (product system developed for a tech company among BAT)
